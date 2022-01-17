@@ -13,8 +13,8 @@
 
 <h4 align="center">
   <a href="https://github.com/viniciusaislan">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ProjetoAmbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoAmbar&layout=compact&langs_count=7&theme=algolia"/> </h4>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ProjetoAmbar&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoAmbar&layout=compact&langs_count=7&theme=maroongold"/> </h4>
  
   
 ------------------------
