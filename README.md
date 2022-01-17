@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá a todes! 👋
 
-- 🔭 I’m currently working on <b>Energias Renováveis</b>
-- 👯 I’m looking to collaborate on <b>ODS #7</b>
+- ⚡ Atualmente estamos trabalhando no <b>Projeto Ambar</b>
+- 👯 Procuramos colaborar com a <b>ODS #7 - Energias Renováveis</b>
 
 <div>
   
