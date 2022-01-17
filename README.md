@@ -1,28 +1,24 @@
-# Projeto Integrador - Grupo 04 - ODS #7: Energias Renováveis
+### Hi there 👋
 
-# Projeto do Bloco II do Bootcamp da Generation Brasil
+- 🔭 I’m currently working on Energias Renováveis
+- 👯 I’m looking to collaborate on ODS #7
+
+<div>
   
-## ◻ O Problema Social
+  ## GitHub criado para nosso Projeto Integrador da Generation Brasil, com intuito de todos membros do grupo trabalharem como um time!
+  ## Objetivo do trabalho: Criar uma Rede social em base na ODS #7 - Energias Renováveis
 
- Baixa democratização das energias renováveis no Brasil.  
+<div> 
+
+
+<div align="center">
+  <a href="https://github.com/Segurancareal">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProjetoAmbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoAmbar&lshow_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
+</div>
   
-## ◻ Qual é o impacto e as consequências na sociedade?
-  
-Menos acesso à informação, impactos ambientais negativos, acidentes causados por “gatos de luz”, riscos à saúde devido a uma grande parte da população cozinhando com combustíveis poluentes.
-
-## ◻ Qual foi a solução escolhida?
-Rede Social
-
-## ◻ Qual o motivo da escolha do modelo de app?
-Divulgar informações sobre energias renováveis para conscientizar a população.
-
-## ◻ Descrição do software planejado para solucionar o problema
-Plataforma para informar sobre os benefícios das energias renováveis, cadastro de voluntários e doadores em potencial, compartilhamentos e divulgações em redes sociais.
-
-## ◻ Nome do projeto
-Ambar → é uma resina fossilizada proveniente de algumas árvores e que faz referência a palavra grega Eléktron, que deu origem à palavra eletricidade. Os gregos antigos perceberam que, ao atritar o âmbar na pele de animais, esse material adquire a propriedade de atração de pequenos corpos, como penas, tecidos etc. A partir daí os fenômenos de origem elétrica começaram a ser estudados.
-
 ------------------------
+## Entre em contato com a gente. 😉
 <b>Integrantes do Grupo:</b>
 - [Ariela Lopes](https://github.com/arieladimitria)
 - [Gabriel Marques](https://github.com/Gabriel-M-S)
