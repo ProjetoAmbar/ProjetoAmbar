@@ -1,7 +1,7 @@
 ### Olá a todes! 👋
 
-- ⚡ Atualmente estamos trabalhando no <b>Projeto Ambar</b>
-- 👯 Procuramos colaborar com a <b>ODS #7 - Energias Renováveis</b>
+- ⚡ Atualmente estamos trabalhando no <b>Projeto Ambar.</b>
+- 👯 Procuramos colaborar com a <b>ODS #7 - Energias Renováveis.</b>
 
 <div>
   
