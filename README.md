@@ -18,7 +18,7 @@
  
   
 ------------------------
-## Entre em contato com a gente. 😉
+## Entre em contato com a gente 😉
 <b>Integrantes do Grupo:</b>
 - [Ariela Lopes](https://github.com/arieladimitria)
 - [Gabriel Marques](https://github.com/Gabriel-M-S)
