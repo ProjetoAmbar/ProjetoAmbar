@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Energias Renováveis
-- 👯 I’m looking to collaborate on ODS #7
+- 🔭 I’m currently working on <b>Energias Renováveis</b>
+- 👯 I’m looking to collaborate on <b>ODS #7</b>
 
 <div>
   
@@ -11,11 +11,11 @@
 <div> 
 
 
-<div align="center">
-  <a href="https://github.com/Segurancareal">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProjetoAmbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoAmbar&lshow_icons=true&theme=algolia&include_all_commits=true&count_private=truelocale=en&layout=compact"/>
-</div>
+<h4 align="center">
+  <a href="https://github.com/viniciusaislan">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ProjetoAmbar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjetoAmbar&layout=compact&langs_count=7&theme=algolia"/> </h4>
+ 
   
 ------------------------
 ## Entre em contato com a gente. 😉
