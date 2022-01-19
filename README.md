@@ -7,7 +7,7 @@
 
 ## Objetivo do trabalho: Criar uma Rede Social em base na ODS #7 - Energias Renováveis
 
-------------------------
+--------------------------------
 
 ## Integrantes do Grupo:
 - [Ariela Lopes](https://github.com/arieladimitria)
@@ -21,10 +21,11 @@
 <a href = "mailto:projetoambar04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Tarefas:
-- <b>11/01/2022:</b> Definindo o escopo do projeto
-- <b>17/01/2022:</b> Prototipando o Banco de dados
+- [x] <b>11/01/2022:</b> Definindo o escopo do projeto
+- [x] <b>17/01/2022:</b> Prototipando o Banco de dados
 
-------------------------
+------------------------------
+
 <h3 align="center">🎯 Projeto em andamento...</h3>
 
 <h4 align="center">
