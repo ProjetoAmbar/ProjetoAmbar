@@ -26,6 +26,7 @@
 - [x] <b>21/01/2022:</b> Criando o meu projeto Spring
 - [x] <b>21/01/2022:</b> Primeiro modelo do meu projeto spring
 
+
 ------------------------------
 
 <h3 align="center">🎯 Projeto em andamento...</h3>
