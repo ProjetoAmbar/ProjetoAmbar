@@ -31,7 +31,7 @@
 - [x] <b>#07:</b> Implementado o Spring Security
 - [x] <b>#08:</b> Documentação com Swagger e Deploy
 - [x] <b>#09:</b> Criação do projeto em Angular
-- [ ] <b>#10:</b> Segurança no Angular
+- [x] <b>#10:</b> Segurança no Angular
 
 
 ------------------------------
