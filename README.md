@@ -11,10 +11,10 @@
 - [x] <b>#01:</b> Definindo o escopo do projeto
 - [x] <b>#02:</b> Prototipando o Banco de dados
 - [x] <b>#03:</b> Criando o meu projeto Spring
-- [x] <b>#04:</b> Primeiro modelo do meu projeto spring
+- [x] <b>#04:</b> Primeiro modelo do meu projeto Spring
 - [x] <b>#05:</b> Criando o primeiro CRUD do meu projeto Spring
 - [x] <b>#06:</b> Criando o segundo CRUD do meu projeto Spring
-- [x] <b>#07:</b> Implementado o Spring Security
+- [x] <b>#07:</b> Implementando o Spring Security
 - [x] <b>#08:</b> Documentação com Swagger e Deploy
   
 ### Front-end
